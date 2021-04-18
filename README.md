@@ -5,3 +5,9 @@ Here are the relevant files and directories:
 - [collections/](./collections/)
 - [media/](./media/)
 - [modules/](./modules/)
+
+
+# Questions
+
+- why does /media/ have to exist even if there are no images?
+- why do module CNXML files need a metadata element?
