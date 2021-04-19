@@ -1,4 +1,8 @@
-<col:collection xmlns:col="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml">
+<col:collection 
+  xmlns:col="http://cnx.rice.edu/collxml"
+  xmlns:md="http://cnx.rice.edu/mdml"
+  xmlns:sys="http://cnx.rice.edu/system-info">
+
   <col:metadata>
     <md:uuid>00000000-0000-0000-0000-000000000000</md:uuid>
     <md:title>test book</md:title>
@@ -8,7 +12,7 @@
     <col:subcollection>
       <md:title>subcollection</md:title>
       <col:content>
-        <col:module document="m1" />
+        <col:module document="m1" sys:version-at-this-collection-version="999.999"/>
       </col:content>
     </col:subcollection>
   </col:content>
