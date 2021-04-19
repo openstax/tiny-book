@@ -12,3 +12,4 @@ Here are the relevant files and directories:
 - why does /media/ have to exist even if there are no images?
 - why do module CNXML files need a metadata element?
 - why do we still need the `version-at-this-collection-version` attribute? (cnx-epub requires it during assembly)
+- we still require collxml module entries to have a title

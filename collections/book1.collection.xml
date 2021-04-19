@@ -12,7 +12,7 @@
     <col:subcollection>
       <md:title>subcollection</md:title>
       <col:content>
-        <col:module document="m1" sys:version-at-this-collection-version="999.999"/>
+        <col:module document="m1" sys:version-at-this-collection-version="999.999">We still needs titles in  the Collxml</col:module>
       </col:content>
     </col:subcollection>
   </col:content>
