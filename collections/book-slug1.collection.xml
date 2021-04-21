@@ -6,7 +6,7 @@
   <col:metadata>
     <md:uuid>00000000-0000-0000-0000-000000000000</md:uuid>
     <md:title>test book</md:title>
-    <md:slug>slug1</md:slug>
+    <md:slug>book-slug1</md:slug>
   </col:metadata>
   <col:content>
     <col:subcollection>

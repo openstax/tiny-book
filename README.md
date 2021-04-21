@@ -13,3 +13,4 @@ Here are the relevant files and directories:
 - why do module CNXML files need a metadata element?
 - why do we still need the `version-at-this-collection-version` attribute? (cnx-epub requires it during assembly)
 - we still require collxml module entries to have a title
+- It seems the slug entry in the collxml must match the name of the file (`slug1.collection.xml`). Is that necessary? (`git-link` step fails)
