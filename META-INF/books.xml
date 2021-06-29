@@ -1,0 +1,3 @@
+<container xmlns="https://openstax.org/namespaces/book-container" version="1">
+    <book slug="book-slug1" href="../collections/book-slug1.collection.xml" />
+</container>
