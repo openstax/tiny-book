@@ -7,6 +7,7 @@
     <md:uuid>00000000-0000-0000-0000-000000000000</md:uuid>
     <md:title>test book</md:title>
     <md:slug>book-slug1</md:slug>
+    <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
   </col:metadata>
   <col:content>
