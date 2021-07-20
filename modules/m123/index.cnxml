@@ -15,17 +15,17 @@
         </mfrac>
       </math>
     </equation>
-<example class=”lab”>
+<example class="lab">
   <title>Using Math Functions</title>
   <para>Given three floating point numbers x, y, and z…</para>
   <para>Output each floating point value with two digits…</para>
-  <div data:interactive=”coderunner-py” id=”book-unique-id123”>
-    <list data:type=”inputs”>
+  <div data:interactive="coderunner-py" id="book-unique-id123">
+    <list data:type="inputs">
         <item>5.0</item><item>1.5</item><item>3.2</item>
     </list>
-    <code data:type=”output”>172.47 361.66 3.50 13.13</code>
-    <code data:type=”initial”>...</code>
-    <code data:type=”solution”>...</code>
+    <code data:type="output">172.47 361.66 3.50 13.13</code>
+    <code data:type="initial">...</code>
+    <code data:type="solution">...</code>
   </div>
 
 </example>
