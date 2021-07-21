@@ -21,9 +21,11 @@
       <para>Given three floating point numbers x, y, and z…</para>
       <para>Output each floating point value with two digits…</para>
       <div data:interactive="coderunner-py" id="book-unique-id123">
+        <para>Ex. If the input is</para>
         <list data:type="inputs">
             <item>5.0</item><item>1.5</item><item>3.2</item>
         </list>
+        <para>Then the output is</para>
         <code data:type="output">172.47 361.66 3.50 13.13</code>
         <code data:type="initial"># Enter your code here</code>
         <code data:type="solution">print "Hello World"</code>
