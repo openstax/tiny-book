@@ -5,7 +5,7 @@
 
   <col:metadata>
     <md:uuid>00000000-0000-0000-0000-000000000000</md:uuid>
-    <md:title>test book</md:title>
+    <md:title>test book &quot; with a ampersanded quote in the title</md:title>
     <md:slug>book-slug1</md:slug>
     <md:language>en</md:language>
     <md:content-id>col123</md:content-id>
@@ -13,7 +13,7 @@
   </col:metadata>
   <col:content>
     <col:subcollection>
-      <md:title>subcollection</md:title>
+      <md:title>subcollection &quot; with an ampersanded quote</md:title>
       <col:content>
           <col:module document="m123" sys:version-at-this-collection-version="999.999"><md:title>We still needs titles in  the Collxml</md:title></col:module>
       </col:content>
