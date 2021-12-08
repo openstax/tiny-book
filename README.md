@@ -1,3 +1,5 @@
+This is a commit on a branch so we can test branch and commit builds. The tests do not depend on the actualy contents of this change. so keeping this branch up-to-date should be painless.
+
 This repo contains a small book.
 Here are the relevant files and directories:
 
