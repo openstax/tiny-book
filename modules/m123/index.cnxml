@@ -15,13 +15,13 @@
       </math>
     </equation>
     
-    <para id="recursed-para">Let's play a game of Recursed!</para>
+    <para id="para-00001" xmlns="http://cnx.rice.edu/cnxml">Let's play a game of Recursed!</para>
     
     <media id="recursed-media" alt="alttexthere">
       <iframe src="../../media/coderunner/foo/recursed.xhtml"/>
     </media>
     
-    <para id="baba-para">Now, let's play a game of Baba Is You!</para>
+    <para id="para-00002">Now, let's play a game of Baba Is You!</para>
     
     <media id="baba-media" alt="alttexthere">
       <iframe src="../../media/coderunner/foo/baba-is-you.xhtml"/>
