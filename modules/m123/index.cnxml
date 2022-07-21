@@ -7,6 +7,7 @@
   </metadata>
   <content>
     <para id="test">Test Introduction</para>
+    <para id="foreign-spaces"><foreign><term>There should be no spaces between the foreign and term tags</term></foreign></para>
     <equation id="eqn1">
       <math xmlns="http://www.w3.org/1998/Math/MathML">
         <mfrac>
