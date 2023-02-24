@@ -24,10 +24,10 @@
     <media id="iframe-internal" alt="an iframe that points to content within the repository">
       <iframe src="../../media/interactives-thisnamedoesnotmatter/main.xhtml"/>
     </media>
--->
     <para id="iframe-external-desc">What follows is an iframe that points to a youtube video:</para>
     <media id="iframe-external" alt="a youtube video">
       <iframe src="https://www.youtube.com/watch?v=rStL7niR7gs"/>
     </media>
-  </content>
+-->
+</content>
 </document>
