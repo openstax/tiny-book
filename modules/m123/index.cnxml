@@ -6,7 +6,15 @@
     <md:uuid>11111111-1111-4111-8111-111111111111</md:uuid>
   </metadata>
   <content>
-    <para id="test">Test Introduction</para>
+    <para id="test">Test Introduction with math! It should be a fraction with x and 2:</para>
+    <equation id="eqn1">
+      <math xmlns="http://www.w3.org/1998/Math/MathML">
+        <mfrac>
+          <mi>x</mi>
+          <mn>2</mn>
+        </mfrac>
+      </math>
+    </equation>
     <para id="image-internal-desc">What follows is an image whose content is inside the repository:</para>
     <media id="image-internal" alt="a reference to an image inside the repository">
       <image mime-type="image/jpeg" src="../../media/urgent.jpg"/>
