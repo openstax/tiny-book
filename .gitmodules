@@ -3,4 +3,4 @@
 	url = https://github.com/openstax/osbooks-astronomy.git
 [submodule "something"]
 	path = something
-	url = git@github.com:TylerZeroMaster/something.git
+	url = https://github.com/TylerZeroMaster/something.git
