@@ -7,3 +7,6 @@
 [submodule "enki"]
 	path = enki
 	url = https://github.com/openstax/enki.git
+[submodule "osbooks-world-history"]
+	path = osbooks-world-history
+	url = https://github.com/openstax/osbooks-world-history.git
