@@ -4,3 +4,6 @@
 [submodule "something"]
 	path = something
 	url = https://github.com/TylerZeroMaster/something.git
+[submodule "enki"]
+	path = enki
+	url = https://github.com/openstax/enki.git
