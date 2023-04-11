@@ -1,3 +1,6 @@
 [submodule "osbooks-astronomy"]
 	path = osbooks-astronomy
 	url = https://github.com/openstax/osbooks-astronomy.git
+[submodule "something"]
+	path = something
+	url = git@github.com:TylerZeroMaster/something.git
