@@ -1,0 +1,31 @@
+<document id="test-super-document" cnxml-version="0.7" module-id="" xmlns="http://cnx.rice.edu/cnxml" class="super">
+  <title>Super Document</title>
+  <metadata mdml-version="0.5" xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Super Document</md:title>
+    <md:content-id>m456</md:content-id>
+    <md:uuid>11111111-1111-4111-8111-111111111112</md:uuid>
+  </metadata>
+  <content class="super">
+    <para id="test">Test Super Document</para>
+    <equation id="eqn1">
+      <math xmlns="http://www.w3.org/1998/Math/MathML">
+        <mfrac>
+          <mi>x</mi>
+          <mn>2</mn>
+        </mfrac>
+      </math>
+    </equation>
+    <para id="image-internal-desc">What follows is an image whose content is inside the repository:</para>
+    <media id="image-internal" alt="a reference to an image inside the repository">
+      <image mime-type="image/jpeg" src="../../media/urgent.jpg"/>
+    </media>
+    <para id="iframe-internal-desc">What follows is an iframe that points to local content inside the repository:</para>
+    <media id="iframe-internal" alt="an iframe that points to content within the repository">
+      <iframe src="../../media/interactives-thisnamedoesnotmatter/main.xhtml"/>
+    </media>
+    <para id="iframe-external-desc">What follows is an iframe that points to a youtube video:</para>
+    <media id="iframe-external" alt="a youtube video">
+      <iframe src="https://www.youtube.com/watch?v=rStL7niR7gs"/>
+    </media>
+  </content>
+</document>

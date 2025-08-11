@@ -16,6 +16,7 @@
       <md:title>subcollection</md:title>
       <col:content>
           <col:module document="m123" sys:version-at-this-collection-version="999.999"/>
+          <col:module document="m456" sys:version-at-this-collection-version="999.999"/>
       </col:content>
     </col:subcollection>
   </col:content>
